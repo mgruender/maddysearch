@@ -20,7 +20,14 @@
       <button onclick="spawnFact()">I'm Feeling Lucky</button>
       <button onclick="takeSnapshot()" class="btn-save">📸 Save My Curation</button>
     </div>
-
+      
+    <div class="help-section" style="pointer-events: auto; margin-top: 15px;">
+      <button id="helpBtn" onclick="toggleHelp()">?</button>
+      <div id="helpText" class="hidden">
+        Press "I'm Feeling Lucky" to generate facts about Maddy that you can then order and create into your own themes.
+      </div>
+    </div>
+      
     <div class="theme-creator">
       <input type="text" id="themeInput" placeholder="Add a theme (e.g. 'Creative Strategy')...">
       <button onclick="addTheme()">+</button>
