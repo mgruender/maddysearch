@@ -1,0 +1,102 @@
+body { 
+  font-family: 'Arial', sans-serif; 
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center; 
+  height: 100vh; 
+  margin: 0; 
+  background: #fff; 
+  overflow: hidden; 
+}
+
+.ui-container {
+  z-index: 9999; 
+  display: flex; 
+  flex-direction: column; 
+  align-items: center;
+  pointer-events: none; 
+}
+
+.logo { 
+  font-size: 80px; 
+  font-weight: bold; 
+  margin-bottom: 20px; 
+  text-shadow: 0 0 15px white;
+}
+
+.m { color: #4285F4; } .a { color: #EA4335; } .d1 { color: #FBBC05; } .d2 { color: #4285F4; } .y { color: #34A853; } 
+.name { color: #EA4335; font-size: 40px; margin-left: 10px; }
+
+.search-box { 
+  width: 500px; 
+  height: 40px; 
+  border: 1px solid #dfe1e5; 
+  border-radius: 24px; 
+  margin-bottom: 20px; 
+  background: white; 
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.buttons, .theme-creator { pointer-events: auto; }
+
+button { 
+  background-color: #f8f9fa; 
+  border: 1px solid #f8f9fa; 
+  border-radius: 4px; 
+  color: #3c4043; 
+  font-size: 14px; 
+  margin: 11px 4px; 
+  padding: 0 24px; 
+  height: 40px; 
+  cursor: pointer; 
+  font-weight: bold; 
+  transition: transform 0.1s;
+}
+
+button:active { transform: scale(0.95); }
+
+.btn-save { background-color: #34A853; color: white; }
+
+#themeInput {
+  padding: 8px 15px; 
+  border-radius: 20px; 
+  border: 1px solid #dfe1e5; 
+  width: 220px;
+}
+
+/* Fact Bubbles */
+.fact-bubble {
+  position: absolute;
+  padding: 15px;
+  background: #fff;
+  border: 1px solid #dfe1e5;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  font-size: 14px;
+  color: #3c4043;
+  max-width: 200px;
+  cursor: grab;
+  user-select: none;
+  z-index: 2;
+  animation: popIn 0.2s ease-out;
+}
+
+/* Theme Tags */
+.theme-tag {
+  position: absolute;
+  padding: 10px 20px;
+  background: #4285F4;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: grab;
+  z-index: 5;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+@keyframes popIn {
+  0% { transform: scale(0); }
+  100% { transform: scale(1); }
+}
