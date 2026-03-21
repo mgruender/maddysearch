@@ -1,13 +1,43 @@
 const facts = [
-  "MaddyGruender once accidentally invented a new color.",
-  "Maddy is the reason 'Stellar' is a word.",
-  "Fact: Maddy can type 400 words per minute if they are all 'Maddy'.",
-  "Most searched: 'MaddyGruender daily routine'.",
-  "Maddy never loses her keys; the keys just hide in fear.",
-  "The moon only shines because Maddy allowed it.",
-  "Maddy's laugh is legally classified as a musical instrument.",
-  "Common result: 'MaddyGruender for President 2028'."
-];
+  "Maddy loves to make 'micro-memes' that reflect specific instances between her friends, such as a Jaws image with a paper deadline.",
+  "Maddy has always loved making things. One of the first things Maddy did online when she was younger was make minecraft skins because she didnt like the quality of the ones she found and wanted to make some that fit her needs",
+  "The pathways project Maddy worked on failed in curating the social collective, but it taught her how to better design communities.",
+  "Maddy has worked in outdoor education for 10 years in the summers. It’s like content curation of the outdoors.",
+  "Maddy knows lots of otter and seal fun facts: otters have 1 million hairs per sq inch.",
+  "Maddy has designed 3 logos for the projects in her lab: a raccoon, a raven, and a bumblebee.",
+  "Maddy made a whole PowerPoint to pitch a raccoon for an SDL learning platform that helps novices navigate information.",
+  "Hot take: Maddy thinks the best social creatives have experience in fandom spaces (she has experience in fandom spaces).",
+  "when Maddy wants a social media detox they delete everything but Facebook Marketplace and just find new things to add to either their pinterest boards or just brings it home",
+  "One weird internet place Maddy found themself on (for work research) was a reddit page of fandom cross polination between the NFL Denver Broncos and the horse game Umamasume",
+  "Maddy’s go-to focus technique is playing a song on repeat: Fame is a Gun, C'est Toi, or Mimosa 2000.",
+  "Maddy can flip a sea kayak over and flip back up by herself. She has a video to prove it.",
+  "Maddy once saw 17 banana slugs in one hike through Santa Cruz's redwood forest.",
+  "Maddy is a fan of energy drinks with two red cows as a logo and vanilla lattes.",
+  "Maddy really likes using Figma for figure graphics for her research papers.",
+  "Maddy’s favorite paper writing section is the acknowledgments.",
+  "Maddy’s favorite citation style is ACM (All Citations are Magical).",
+  "Maddy’s kayak roll is a metaphor for her creative process: calm under pressure and always ready to reset."
+  "Maddy views every social platform as a different 'ecosystem' some are redwoods, some are oceans.",
+  "Maddy’s experience in fandom taught her how to speak 'Internet' as a primary language.",
+  "Maddy believes that 'Social Strategy' is just 'Outdoor Ed' for the internet.",
+  "Maddy believes inside jokes are the highest form of social currency.",
+  "Maddy thinks the most important part of a social media action is how it shapes community, does it create a comment community?",
+  "Maddy can manage chaos because Maddy has managed 20 middle-school boys on a field trip on a really windy day",
+  "Maddy's favorite class of undergrad was Visual and Spatial Cognition, and learned how video games can help with cognitive navigation",
+  "One of Maddy's favorite graduate classes was Trustworthy Online experiments taught by a Google UX researcher",
+  "Maddy believes the 'Undo' button (Ctrl+Z) is the greatest human invention of the 21st century.",
+  "Maddy is a huge fan of the 'Chrome Dino'".,
+  "Maddy will always be down to make a new mascot for any new project.",
+  "Maddy treats feedback as part of the design, not just something that happens after.",
+  "Maddy has a habit of opening 20+ tabs while researching and insists they are all important.",
+  "Maddy treats playlists like design artifacts: curated, iterative, and very intentional.",
+  "Maddy sees iteration as the main creative skill, not just improvement but discovery.",
+  "Maddy thinks a good question is often more valuable than a polished answer.",
+  "Maddy enjoys making things that make other people want to contribute.",
+  
+  
+  
+    ];
 
 // Reusable drag logic
 function makeDraggable(element) {
