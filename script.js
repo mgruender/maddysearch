@@ -19,8 +19,8 @@ const facts = [
   "Maddy’s favorite paper writing section is the acknowledgments.",
   "Maddy’s favorite citation style is ACM (All Citations are Magical).",
   "Why was Maddy's first word. Or actually just the one her parents joke that it was.",
-  "Maddy’s kayak roll is a metaphor for her creative process: calm under pressure and always ready to reset."
-  "Maddy’s experience in fandom taught her how to speak 'Internet' as a primary language.",
+  "Maddy’s kayak roll could be considered a metaphor for her creative process: calm under pressure and always ready to reset.",
+  
   "Maddy believes that 'Social Strategy' is just 'Outdoor Ed' for the internet.",
   "Maddy believes inside jokes are the highest form of social currency.",
   "Maddy thinks the most important part of a social media action is how it shapes community, does it create a comment community?",
@@ -29,7 +29,6 @@ const facts = [
   "One of Maddy's favorite graduate classes was Trustworthy Online experiments taught by a Google UX researcher",
   "Maddy once spent 30 minutes researching the 'History of San Francisco' just to win a very minor argument.",
   "Maddy believes the 'Undo' button (Ctrl+Z) is the greatest human invention of the 21st century.",
-  "Maddy is a huge fan of the 'Chrome Dino'".,
   "Maddy will always be down to make a new mascot for any new project.",
   "Maddy treats feedback as part of the design, not just something that happens after.",
   "Maddy has a habit of opening 20+ tabs while researching and insists they are all important.",
