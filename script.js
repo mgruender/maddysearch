@@ -110,3 +110,11 @@ function takeSnapshot() {
     ui.style.display = 'flex'; // Bring UI back
   });
 }
+
+function showHelp() {
+  document.getElementById('helpModal').style.display = 'flex';
+}
+
+function closeHelp() {
+  document.getElementById('helpModal').style.display = 'none';
+}
