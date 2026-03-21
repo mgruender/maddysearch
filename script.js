@@ -7,7 +7,7 @@ const facts = [
   "Maddy has designed 3 logos for the projects in her lab: a raccoon, a raven, and a bumblebee.",
   "Maddy once made a whole PowerPoint to pitch a raccoon for a lab project.",
   "Hot take: Maddy thinks the best social creatives have experience in fandom spaces (she has experience in fandom spaces).",
-  "When Maddy wants a social media detox they delete everything but Facebook Marketplace and just find new things to add to either their pinterest boards or just brings it home",
+  "Maddy's favorite social detox is only looking at Facebook Marketplace to find new things to add their space or their pinterest boards",
   "One phenomenon Maddy is researching is a cross polination between the fandom of the NFL Denver Broncos and the horse game Umamasume",
   "Maddy’s go-to focus technique is playing a song on repeat: Fame is a Gun, C'est Toi, or Mimosa 2000.",
   "Maddy thinks Pinterest boards and academic literature reviews serve a similar purpose.",
