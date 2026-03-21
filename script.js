@@ -20,7 +20,6 @@ const facts = [
   "Maddy’s favorite citation style is ACM (All Citations are Magical).",
   "Why was Maddy's first word. Or actually just the one her parents joke that it was.",
   "Maddy’s kayak roll could be considered a metaphor for her creative process: calm under pressure and always ready to reset.",
-  
   "Maddy believes that 'Social Strategy' is just 'Outdoor Ed' for the internet.",
   "Maddy believes inside jokes are the highest form of social currency.",
   "Maddy thinks the most important part of a social media action is how it shapes community, does it create a comment community?",
